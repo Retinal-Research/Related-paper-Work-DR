@@ -10,4 +10,4 @@
 
 
 ### Team
--[A deep learning system for detecting diabetic retinopathy across the disease spectrum](https://www.nature.com/articles/s41467-021-23458-5)
+- [A deep learning system for detecting diabetic retinopathy across the disease spectrum](https://www.nature.com/articles/s41467-021-23458-5)
