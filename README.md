@@ -7,3 +7,7 @@
 - [Development and Validation of a Deep Learning System for Diabetic Retinopathy and Related Eye Diseases Using Retinal Images From Multiethnic Populations With Diabetes](https://pubmed.ncbi.nlm.nih.gov/29234807/)
 - [Artificial intelligence for diabetic retinopathy screening: a review](https://www.nature.com/articles/s41433-019-0566-0)
 - [Deep Learning Techniques for Diabetic Retinopathy Detection](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08869883.pdf)
+
+
+### Team
+-[https://www.nature.com/articles/s41467-021-23458-5](https://www.nature.com/articles/s41467-021-23458-5)
