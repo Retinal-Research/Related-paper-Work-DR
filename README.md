@@ -12,3 +12,4 @@
 ### Team
 - [A deep learning system for detecting diabetic retinopathy across the disease spectrum](https://www.nature.com/articles/s41467-021-23458-5)
 - [Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images](https://arxiv.org/pdf/2107.08274.pdf)
+- [Diagnostic assessment of deep learning algorithms for diabetic retinopathy screening](https://www.sciencedirect.com/science/article/abs/pii/S0020025519305377)
