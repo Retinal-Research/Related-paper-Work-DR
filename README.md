@@ -14,3 +14,4 @@
 - [Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images](https://arxiv.org/pdf/2107.08274.pdf)
 - [Diagnostic assessment of deep learning algorithms for diabetic retinopathy screening](https://www.sciencedirect.com/science/article/abs/pii/S0020025519305377)
 - [Diabetic Retinopathy Fundus Image Classification and Lesions Localization System Using Deep Learning](https://www.mdpi.com/1424-8220/21/11/3704)
+- [Lesion-Aware Transformers for Diabetic Retinopathy Grading](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.pdf)
