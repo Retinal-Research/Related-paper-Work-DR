@@ -17,3 +17,4 @@
 - [Lesion-Aware Transformers for Diabetic Retinopathy Grading](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.pdf)
 - [MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
 - [Exploring Explainability for Vision Transformers](https://jacobgil.github.io/deeplearning/vision-transformer-explainability)
+- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
