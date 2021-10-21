@@ -25,3 +25,7 @@
 
 ### DataSet 
 - [Messidor Dataset](https://www.adcis.net/en/third-party/messidor2/)
+
+
+### Relevant information
+- [Diabetes Grading](https://eyesteve.com/diabetic-retinopathy-grading/)
