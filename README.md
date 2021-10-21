@@ -21,7 +21,7 @@
 - [Adaptive machine learning classification for diabetic retinopathy](https://link.springer.com/article/10.1007/s11042-020-09793-7)
 - [kaggle_diabetic Oo_ Team](https://github.com/sveitser/kaggle_diabetic)
 - [WEAKLY-SUPERVISED LOCALIZATION OF DIABETIC RETINOPATHY LESIONS IN RETINAL FUNDUS IMAGES](https://arxiv.org/pdf/1706.09634.pdf)
-
+- [Diabetic Retinopathy Detection Based on Weakly Supervised Object Localization and Knowledge Driven Attribute Mining](https://link.springer.com/chapter/10.1007/978-3-030-87000-3_4)
 
 ### DataSet 
 - [Messidor Dataset](https://www.adcis.net/en/third-party/messidor2/)
