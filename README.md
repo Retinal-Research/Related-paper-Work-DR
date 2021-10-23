@@ -15,7 +15,7 @@
 - [Diagnostic assessment of deep learning algorithms for diabetic retinopathy screening](https://www.sciencedirect.com/science/article/abs/pii/S0020025519305377)
 - [Diabetic Retinopathy Fundus Image Classification and Lesions Localization System Using Deep Learning](https://www.mdpi.com/1424-8220/21/11/3704)
 - [Lesion-Aware Transformers for Diabetic Retinopathy Grading](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.pdf)
-- [MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
+- [MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification](https://link.springer.com/epdf/10.1007/978-3-030-87237-3_5?sharing_token=0JF1xzsxv9xl43d5scHI-fe4RwlQNchNByi7wbcMAY4vM4gBTHrR8TaOTFD1o8nflBDKWneQbQEIHfLSMBk23E_qlRDxNzvvF8bp41YnP7pHUz2eWMi-J3SutVZZEyu-uIlviVPCCpMq5903Y3lCxJ_NCifWiILfe9zewWQEIwc%3D)
 - [Exploring Explainability for Vision Transformers](https://jacobgil.github.io/deeplearning/vision-transformer-explainability)
 - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 - [Adaptive machine learning classification for diabetic retinopathy](https://link.springer.com/article/10.1007/s11042-020-09793-7)
