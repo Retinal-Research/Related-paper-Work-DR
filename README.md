@@ -24,7 +24,7 @@
 - [Diabetic Retinopathy Detection Based on Weakly Supervised Object Localization and Knowledge Driven Attribute Mining](https://link.springer.com/chapter/10.1007/978-3-030-87000-3_4)
 - [TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication](https://arxiv.org/pdf/2106.00908.pdf)
 - [Dual-stream Multiple Instance Learning Network for Whole Slide Image Classification with Self-supervised Contrastive Learning](https://arxiv.org/pdf/2011.08939.pdf)
-
+- [Multiple Instance Learning: A Survey of Problem Characteristics and Applications](https://arxiv.org/pdf/1612.03365.pdf)
 
 
 ### DataSet 
