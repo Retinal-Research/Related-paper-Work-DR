@@ -25,6 +25,9 @@
 - [TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication](https://arxiv.org/pdf/2106.00908.pdf)
 - [Dual-stream Multiple Instance Learning Network for Whole Slide Image Classification with Self-supervised Contrastive Learning](https://arxiv.org/pdf/2011.08939.pdf)
 - [Multiple Instance Learning: A Survey of Problem Characteristics and Applications](https://arxiv.org/pdf/1612.03365.pdf)
+- [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/pdf/1711.02512.pdf)
+- [Attention-based Deep Multiple Instance Learning](http://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf)
+
 
 
 ### DataSet 
