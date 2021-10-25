@@ -28,7 +28,7 @@
 - [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/pdf/1711.02512.pdf)
 - [Attention-based Deep Multiple Instance Learning](http://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf)
 - [Learning Deep Features for Discriminative Localization](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
-
+- [Is object localization for free? – Weakly-supervised learning with convolutional neural networks](https://openaccess.thecvf.com/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf)
 
 ### DataSet 
 - [Messidor Dataset](https://www.adcis.net/en/third-party/messidor2/)
