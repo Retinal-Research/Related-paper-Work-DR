@@ -1,4 +1,6 @@
 # Related-paper-Work
+This repository is focus on the Diabetes retinopathy Research
+
 
 ### Oana
 - [A deep-learning system for the assessment of cardiovascular disease risk via the measurement of retinal-vessel calibre](https://dunedinstudy.otago.ac.nz/files/1602722093945.pdf)
